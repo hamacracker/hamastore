@@ -1,2 +1,0 @@
-# hamastore
-Hamoka
